@@ -1,6 +1,6 @@
 # Happy Meals 👨‍🍳
 
-\*\*Live preview:
+\*\*Live preview: https://chirag1991.github.io/ComIT_Project_HappyMeals/
 
 ---
 
